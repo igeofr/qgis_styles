@@ -13,50 +13,50 @@
   </edittypes>
   <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
     <rules key="{5af1a075-dc0f-4fb4-96f8-bf2b1c4f60c3}">
-      <rule filter="&quot;CODE_06&quot; = 111" key="{345e36b0-d403-4b12-84ee-b8edb55fe236}" symbol="0" label="Tissu urbain continu"/>
-      <rule filter="&quot;CODE_06&quot; = 112" key="{9e8dab1a-06dc-44f3-9080-cf89ebd9cff0}" symbol="1" label="Tissu urbain discontinu"/>
-      <rule filter="&quot;CODE_06&quot; = 121" key="{35ea45b5-b057-417b-a853-5ff424321d98}" symbol="2" label="Zones industrielles ou commerciales et installations publiques"/>
-      <rule filter="&quot;CODE_06&quot; = 122" key="{e36b5b06-b292-4d63-b36e-920cdf5418a3}" symbol="3" label="Réseaux routier et ferroviaire et espaces associés"/>
-      <rule filter="&quot;CODE_06&quot; = 123" key="{9a12c49b-0779-4643-b3da-691e4d0d006c}" symbol="4" label="Zones portuaires"/>
-      <rule filter="&quot;CODE_06&quot; = 124" key="{93d9f7b2-46ed-4f7d-9977-3bbbb58d3213}" symbol="5" label="Aéroports"/>
-      <rule filter="&quot;CODE_06&quot; = 131" key="{858f0f6e-71de-4ca0-a34c-b011e7cce64c}" symbol="6" label="Extraction de matériaux"/>
-      <rule filter="&quot;CODE_06&quot; = 132" key="{f4baf819-d526-492e-9982-b4c68374bd5f}" symbol="7" label="Décharges"/>
-      <rule filter="&quot;CODE_06&quot; = 133" key="{ee997073-a01f-4d0f-afbb-20aefb426f11}" symbol="8" label="Chantiers"/>
-      <rule filter="&quot;CODE_06&quot; = 141" key="{90f0d89f-6069-48f6-a84a-d387980d2b8d}" symbol="9" label="Espaces verts urbains"/>
-      <rule filter="&quot;CODE_06&quot; = 142" key="{373c92fc-5211-4f41-99e6-3f511350c3a8}" symbol="10" label="Equipements sportifs et de loisirs"/>
-      <rule filter="&quot;CODE_06&quot; = 211" key="{c7e421d2-240f-4fe6-9bdf-19aff2bbe355}" symbol="11" label="Terres arables hors périmètres d'irrigation"/>
-      <rule filter="&quot;CODE_06&quot; = 212" key="{2c0ffa32-1f50-47ed-96b0-41c436fb970d}" symbol="12" label="Périmètres irrigués en permanence"/>
-      <rule filter="&quot;CODE_06&quot; = 213" key="{04790ec7-4922-420a-ac3c-b07889c4429a}" symbol="13" label="Rizières"/>
-      <rule filter="&quot;CODE_06&quot; = 221" key="{8f064e49-99bd-4fb8-9264-c4b94451e06d}" symbol="14" label="Vignobles"/>
-      <rule filter="&quot;CODE_06&quot; = 222" key="{2b0c9fe4-5e6a-4220-8b77-5cf6974ca4ed}" symbol="15" label="Vergers et petits fruits"/>
-      <rule filter="&quot;CODE_06&quot; = 223" key="{27bdb673-6d78-4afa-98c0-d8896cf13682}" symbol="16" label="Oliveraies"/>
-      <rule filter="&quot;CODE_06&quot; = 231" key="{6135d846-dff8-4b68-ac10-544ac482ec0a}" symbol="17" label="Prairies et autres surfaces toujours en herbe à usage agricole"/>
-      <rule filter="&quot;CODE_06&quot; = 241" key="{75537025-7223-4be8-8a04-887417aca58b}" symbol="18" label="Cultures annuelles associées à des cultures permanentes"/>
-      <rule filter="&quot;CODE_06&quot; = 242" key="{304b5f10-5860-4e27-948a-ba1446085915}" symbol="19" label="Systèmes culturaux et parcellaires complexes"/>
-      <rule filter="&quot;CODE_06&quot; = 243" key="{4c96f443-f4c3-491b-8578-bc33fd463e25}" symbol="20" label="Surfaces essentiellement agricoles, interrompues par des espaces naturels importants"/>
-      <rule filter="&quot;CODE_06&quot; = 244" key="{0c1e65ff-08e6-4083-bd7e-3081209f0836}" symbol="21" label="Territoires agroforestiers"/>
-      <rule filter="&quot;CODE_06&quot; = 311" key="{e4537dfb-7f4b-4179-9545-79f4d1d11854}" symbol="22" label="Forêts de feuillus"/>
-      <rule filter="&quot;CODE_06&quot; = 312" key="{844ea5c6-81c7-4c67-a506-7fe4a956648c}" symbol="23" label="Forêts de conifères"/>
-      <rule filter="&quot;CODE_06&quot; = 313" key="{a9b3921b-00cf-45f2-8a70-25125ad28449}" symbol="24" label="Forêts mélangées"/>
-      <rule filter="&quot;CODE_06&quot; = 321" key="{5aa14d51-8c40-4e73-b768-9c7c89a0c576}" symbol="25" label="Pelouses et pâturages naturels"/>
-      <rule filter="&quot;CODE_06&quot; = 322" key="{62969f80-556f-48d4-9be9-556344ae1abc}" symbol="26" label="Landes et broussailles"/>
-      <rule filter="&quot;CODE_06&quot; = 323" key="{fb6269a5-6315-423c-8e14-01e6cb236242}" symbol="27" label="Végétation sclérophylle"/>
-      <rule filter="&quot;CODE_06&quot; = 324" key="{53248428-5b3d-42b6-9a60-041f82557ca1}" symbol="28" label="Forêt et végétation arbustive en mutation"/>
-      <rule filter="&quot;CODE_06&quot; = 331" key="{750b963c-f1ef-4005-88de-b97f3b1080ff}" symbol="29" label="Plages, dunes et sable"/>
-      <rule filter="&quot;CODE_06&quot; = 332" key="{97667d68-8d71-405d-a62f-4c223da3b0f9}" symbol="30" label="Roches nues"/>
-      <rule filter="&quot;CODE_06&quot; = 333" key="{6c55dfb8-d34e-4e3e-a60f-febf8e40fbc5}" symbol="31" label="Végétation clairsemée"/>
-      <rule filter="&quot;CODE_06&quot; = 334" key="{f933685f-3322-4d18-a69f-b3e3400a781c}" symbol="32" label="Zones incendiées"/>
-      <rule filter="&quot;CODE_06&quot; = 335" key="{ccda0841-f638-4b3f-8f4c-bd45d6de4d71}" symbol="33" label="Glaciers et neiges éternelles"/>
-      <rule filter="&quot;CODE_06&quot; = 411" key="{b979596b-bd78-4adc-9fc6-46ec1d243d2e}" symbol="34" label="Marais intérieurs"/>
-      <rule filter="&quot;CODE_06&quot; = 412" key="{7343aeb7-354f-41d1-9c3b-b27502616a8c}" symbol="35" label="Tourbières"/>
-      <rule filter="&quot;CODE_06&quot; = 421" key="{05eaaf40-c21c-44db-a914-dbc90c770c15}" symbol="36" label="Marais maritimes"/>
-      <rule filter="&quot;CODE_06&quot; = 422" key="{5d2bcbab-b06e-4241-a2cf-c5f2df2b44b3}" symbol="37" label="Marais salants"/>
-      <rule filter="&quot;CODE_06&quot; = 423" key="{ece43383-2d3a-4c68-9625-50a70a3b9065}" symbol="38" label="Zones intertidales"/>
-      <rule filter="&quot;CODE_06&quot; = 511" key="{a50287ae-a6d7-4bcd-b015-4e2ba37595d6}" symbol="39" label="Cours et voies d'eau"/>
-      <rule filter="&quot;CODE_06&quot; = 512" key="{7995aec8-2723-4b65-a22d-eef655f313b2}" symbol="40" label="Plans d'eau"/>
-      <rule filter="&quot;CODE_06&quot; = 521" key="{ca60b03e-8a88-471f-b43f-abe85ec222d1}" symbol="41" label="Lagunes littorales"/>
-      <rule filter="&quot;CODE_06&quot; = 522" key="{99cd8942-673b-4afe-b5fc-3a6915b345b6}" symbol="42" label="Estuaires"/>
-      <rule filter="&quot;CODE_06&quot; = 523" key="{9f2c18e4-818b-436d-a508-32c3e09a45f2}" symbol="43" label="Mers et océans"/>
+      <rule description="Continuous urban fabric" filter="&quot;CODE_06&quot; LIKE '111%'" key="{345e36b0-d403-4b12-84ee-b8edb55fe236}" symbol="0" label="Tissu urbain continu"/>
+      <rule description="Discontinuous urban fabric" filter="&quot;CODE_06&quot; LIKE '112%'" key="{9e8dab1a-06dc-44f3-9080-cf89ebd9cff0}" symbol="1" label="Tissu urbain discontinu"/>
+      <rule description="Industrial or commercial units and public facilities" filter="&quot;CODE_06&quot; LIKE '121%'" key="{35ea45b5-b057-417b-a853-5ff424321d98}" symbol="2" label="Zones industrielles ou commerciales et installations publiques"/>
+      <rule description="Road and rail networks and associated land" filter="&quot;CODE_06&quot; LIKE '122%'" key="{e36b5b06-b292-4d63-b36e-920cdf5418a3}" symbol="3" label="Réseaux routier et ferroviaire et espaces associés"/>
+      <rule description="Port areas" filter="&quot;CODE_06&quot; LIKE '123%'" key="{9a12c49b-0779-4643-b3da-691e4d0d006c}" symbol="4" label="Zones portuaires"/>
+      <rule description="Airports" filter="&quot;CODE_06&quot; LIKE '124%'" key="{93d9f7b2-46ed-4f7d-9977-3bbbb58d3213}" symbol="5" label="Aéroports"/>
+      <rule description="Mineral extraction sites" filter="&quot;CODE_06&quot; LIKE '131%'" key="{858f0f6e-71de-4ca0-a34c-b011e7cce64c}" symbol="6" label="Extraction de matériaux"/>
+      <rule description="Dump sites" filter="&quot;CODE_06&quot; LIKE '132%'" key="{f4baf819-d526-492e-9982-b4c68374bd5f}" symbol="7" label="Décharges"/>
+      <rule description="Construction sites" filter="&quot;CODE_06&quot; LIKE '133%'" key="{ee997073-a01f-4d0f-afbb-20aefb426f11}" symbol="8" label="Chantiers"/>
+      <rule description="Green urban areas" filter="&quot;CODE_06&quot; LIKE '141%'" key="{90f0d89f-6069-48f6-a84a-d387980d2b8d}" symbol="9" label="Espaces verts urbains"/>
+      <rule description="Sport and leisure facilities" filter="&quot;CODE_06&quot; LIKE '142%'" key="{373c92fc-5211-4f41-99e6-3f511350c3a8}" symbol="10" label="Equipements sportifs et de loisirs"/>
+      <rule description="Non-irrigated arable land" filter="&quot;CODE_06&quot; LIKE '211%'" key="{c7e421d2-240f-4fe6-9bdf-19aff2bbe355}" symbol="11" label="Terres arables hors périmètres d'irrigation"/>
+      <rule description="Permanently irrigated land" filter="&quot;CODE_06&quot; LIKE '212%'" key="{2c0ffa32-1f50-47ed-96b0-41c436fb970d}" symbol="12" label="Périmètres irrigués en permanence"/>
+      <rule description="Rice fields" filter="&quot;CODE_06&quot; LIKE '213%'" key="{04790ec7-4922-420a-ac3c-b07889c4429a}" symbol="13" label="Rizières"/>
+      <rule description="Vineyards" filter="&quot;CODE_06&quot; LIKE '221%'" key="{8f064e49-99bd-4fb8-9264-c4b94451e06d}" symbol="14" label="Vignobles"/>
+      <rule description="Fruit trees and berry plantations" filter="&quot;CODE_06&quot; LIKE '222%'" key="{2b0c9fe4-5e6a-4220-8b77-5cf6974ca4ed}" symbol="15" label="Vergers et petits fruits"/>
+      <rule description="Olive groves" filter="&quot;CODE_06&quot; LIKE '223%'" key="{27bdb673-6d78-4afa-98c0-d8896cf13682}" symbol="16" label="Oliveraies"/>
+      <rule description="Pastures, meadows and other permanent grasslands under agricultural use" filter="&quot;CODE_06&quot; LIKE '231%'" key="{6135d846-dff8-4b68-ac10-544ac482ec0a}" symbol="17" label="Prairies et autres surfaces toujours en herbe à usage agricole"/>
+      <rule description="Annual crops associated with permanent crops" filter="&quot;CODE_06&quot; LIKE '241%'" key="{75537025-7223-4be8-8a04-887417aca58b}" symbol="18" label="Cultures annuelles associées à des cultures permanentes"/>
+      <rule description="Complex cultivation patterns" filter="&quot;CODE_06&quot; LIKE '242%'" key="{304b5f10-5860-4e27-948a-ba1446085915}" symbol="19" label="Systèmes culturaux et parcellaires complexes"/>
+      <rule description="Land principally occupied by agriculture, with significant areas of natural vegetation" filter="&quot;CODE_06&quot; LIKE '243%'" key="{4c96f443-f4c3-491b-8578-bc33fd463e25}" symbol="20" label="Surfaces essentiellement agricoles, interrompues par des espaces naturels importants"/>
+      <rule description="Agro-forestry areas" filter="&quot;CODE_06&quot; LIKE '244%'" key="{0c1e65ff-08e6-4083-bd7e-3081209f0836}" symbol="21" label="Territoires agroforestiers"/>
+      <rule description="Broad-leaved forest" filter="&quot;CODE_06&quot; LIKE '311%'" key="{e4537dfb-7f4b-4179-9545-79f4d1d11854}" symbol="22" label="Forêts de feuillus"/>
+      <rule description="Coniferous forest" filter="&quot;CODE_06&quot; LIKE '312%'" key="{844ea5c6-81c7-4c67-a506-7fe4a956648c}" symbol="23" label="Forêts de conifères"/>
+      <rule description="Mixed forest" filter="&quot;CODE_06&quot; LIKE '313%'" key="{a9b3921b-00cf-45f2-8a70-25125ad28449}" symbol="24" label="Forêts mélangées"/>
+      <rule description="Natural grasslands" filter="&quot;CODE_06&quot; LIKE '321%'" key="{5aa14d51-8c40-4e73-b768-9c7c89a0c576}" symbol="25" label="Pelouses et pâturages naturels"/>
+      <rule description="Moors and heathland" filter="&quot;CODE_06&quot; LIKE '322%'" key="{62969f80-556f-48d4-9be9-556344ae1abc}" symbol="26" label="Landes et broussailles"/>
+      <rule description="Sclerophyllous vegetation" filter="&quot;CODE_06&quot; LIKE '323%'" key="{fb6269a5-6315-423c-8e14-01e6cb236242}" symbol="27" label="Végétation sclérophylle"/>
+      <rule description="Transitional woodland-shrub" filter="&quot;CODE_06&quot; LIKE '324%'" key="{53248428-5b3d-42b6-9a60-041f82557ca1}" symbol="28" label="Forêt et végétation arbustive en mutation"/>
+      <rule description="Beaches, dunes, sands" filter="&quot;CODE_06&quot; LIKE '331%'" key="{750b963c-f1ef-4005-88de-b97f3b1080ff}" symbol="29" label="Plages, dunes et sable"/>
+      <rule description="Bare rocks" filter="&quot;CODE_06&quot; LIKE '332%'" key="{97667d68-8d71-405d-a62f-4c223da3b0f9}" symbol="30" label="Roches nues"/>
+      <rule description="Sparsely vegetated areas" filter="&quot;CODE_06&quot; LIKE '333%'" key="{6c55dfb8-d34e-4e3e-a60f-febf8e40fbc5}" symbol="31" label="Végétation clairsemée"/>
+      <rule description="Burnt areas" filter="&quot;CODE_06&quot; LIKE '334%'" key="{f933685f-3322-4d18-a69f-b3e3400a781c}" symbol="32" label="Zones incendiées"/>
+      <rule description="Glaciers and perpetual snow" filter="&quot;CODE_06&quot; LIKE '335%'" key="{ccda0841-f638-4b3f-8f4c-bd45d6de4d71}" symbol="33" label="Glaciers et neiges éternelles"/>
+      <rule description="Inland marshes" filter="&quot;CODE_06&quot; LIKE '411%'" key="{b979596b-bd78-4adc-9fc6-46ec1d243d2e}" symbol="34" label="Marais intérieurs"/>
+      <rule description="Peat bogs" filter="&quot;CODE_06&quot; LIKE '412%'" key="{7343aeb7-354f-41d1-9c3b-b27502616a8c}" symbol="35" label="Tourbières"/>
+      <rule description="Coastal salt marshes" filter="&quot;CODE_06&quot; LIKE '421%'" key="{05eaaf40-c21c-44db-a914-dbc90c770c15}" symbol="36" label="Marais maritimes"/>
+      <rule description="Salines" filter="&quot;CODE_06&quot; LIKE '422%'" key="{5d2bcbab-b06e-4241-a2cf-c5f2df2b44b3}" symbol="37" label="Marais salants"/>
+      <rule description="Intertidal flats" filter="&quot;CODE_06&quot; LIKE '423%'" key="{ece43383-2d3a-4c68-9625-50a70a3b9065}" symbol="38" label="Zones intertidales"/>
+      <rule description="Water courses" filter="&quot;CODE_06&quot; LIKE '511%'" key="{a50287ae-a6d7-4bcd-b015-4e2ba37595d6}" symbol="39" label="Cours et voies d'eau"/>
+      <rule description="Water bodies" filter="&quot;CODE_06&quot; LIKE '512%'" key="{7995aec8-2723-4b65-a22d-eef655f313b2}" symbol="40" label="Plans d'eau"/>
+      <rule description="Coastal lagoons" filter="&quot;CODE_06&quot; LIKE '521%'" key="{ca60b03e-8a88-471f-b43f-abe85ec222d1}" symbol="41" label="Lagunes littorales"/>
+      <rule description="Estuaries" filter="&quot;CODE_06&quot; LIKE '522%'" key="{99cd8942-673b-4afe-b5fc-3a6915b345b6}" symbol="42" label="Estuaires"/>
+      <rule description="Sea and ocean" filter="&quot;CODE_06&quot; LIKE '523%'" key="{9f2c18e4-818b-436d-a508-32c3e09a45f2}" symbol="43" label="Mers et océans"/>
     </rules>
     <symbols>
       <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -872,12 +872,14 @@
     <property key="labeling/shapeSizeY" value="0"/>
     <property key="labeling/shapeTransparency" value="0"/>
     <property key="labeling/shapeType" value="0"/>
+    <property key="labeling/substitutions" value="&lt;substitutions/>"/>
     <property key="labeling/textColorA" value="255"/>
     <property key="labeling/textColorB" value="0"/>
     <property key="labeling/textColorG" value="0"/>
     <property key="labeling/textColorR" value="0"/>
     <property key="labeling/textTransp" value="0"/>
     <property key="labeling/upsidedownLabels" value="0"/>
+    <property key="labeling/useSubstitutions" value="false"/>
     <property key="labeling/wrapChar" value=""/>
     <property key="labeling/xOffset" value="0"/>
     <property key="labeling/yOffset" value="0"/>
@@ -910,13 +912,19 @@
     <multilineenabled fieldname="" on=""/>
     <selectedonly on=""/>
   </labelattributes>
-  <SingleCategoryDiagramRenderer diagramType="Pie">
-    <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="0" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="0">
+  <LinearlyInterpolatedDiagramRenderer upperValue="0" lowerHeight="0" upperHeight="50" lowerValue="0" diagramType="Histogram" upperWidth="50" classificationAttributeExpression="" lowerWidth="0">
+    <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="inf">
       <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+      <attribute field="" color="#000000" label=""/>
     </DiagramCategory>
-  </SingleCategoryDiagramRenderer>
+  </LinearlyInterpolatedDiagramRenderer>
   <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
   <annotationform>.</annotationform>
+  <aliases>
+    <alias field="AREA_HA" index="2" name=""/>
+    <alias field="CODE_06" index="1" name=""/>
+    <alias field="ID" index="0" name=""/>
+  </aliases>
   <excludeAttributesWMS/>
   <excludeAttributesWFS/>
   <attributeactions/>
