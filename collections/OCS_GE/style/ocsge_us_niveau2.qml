@@ -28,17 +28,17 @@
   </edittypes>
   <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
     <rules key="{37de3cfe-82bf-4a2d-b0ed-4d45883137c5}">
-      <rule filter="&quot;CODE_US&quot; = 'US1.1'" key="{2f2e4da1-ba6e-4b44-ad43-ec01d5443fe6}" symbol="0" label="Agriculture"/>
-      <rule filter="&quot;CODE_US&quot; = 'US1.2'" key="{da3c438f-3037-4652-87e7-e332fcc66c83}" symbol="1" label="Sylviculture"/>
-      <rule filter="&quot;CODE_US&quot; = 'US1.3'" key="{1130f163-6e53-4016-b40b-2ee38ae17fb0}" symbol="2" label="Activités d'extraction"/>
-      <rule filter="&quot;CODE_US&quot; = 'US1.4'" key="{7991db85-28f8-495d-939f-9ae589d13f4e}" symbol="3" label="Pêche et aquaculture"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US1.1%'" key="{2f2e4da1-ba6e-4b44-ad43-ec01d5443fe6}" symbol="0" label="Agriculture"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US1.2%'" key="{da3c438f-3037-4652-87e7-e332fcc66c83}" symbol="1" label="Sylviculture"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US1.3%'" key="{1130f163-6e53-4016-b40b-2ee38ae17fb0}" symbol="2" label="Activités d'extraction"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US1.4%'" key="{7991db85-28f8-495d-939f-9ae589d13f4e}" symbol="3" label="Pêche et aquaculture"/>
       <rule filter="&quot;CODE_US&quot; = 'US235'" key="{012a2503-ca8e-46a6-81fb-6d65566ca666}" symbol="4" label="Production secondaire, tertiaire et usage résidentiel"/>
-      <rule filter=" &quot;CODE_US&quot; LIKE 'US4.1%'" key="{1ef3e4dc-408a-4e38-92a5-a45b5e77813f}" symbol="5" label="Réseaux de transport"/>
-      <rule filter="&quot;CODE_US&quot; = 'US4.2'" key="{34483bc5-b1bd-428c-b09d-d17437e6b9a2}" symbol="6" label="Services logistiques et de stockage"/>
-      <rule filter="&quot;CODE_US&quot; = 'US4.3'" key="{7eff21cf-be46-40dc-ba1d-2971f29a4c98}" symbol="7" label="Réseaux d'utilité publique"/>
-      <rule filter="&quot;CODE_US&quot; = 'US6.1'" key="{6f63eb6b-e5a4-4b9e-a00d-8df67c1b98b2}" symbol="8" label="Zones en transition"/>
-      <rule filter="&quot;CODE_US&quot; = 'US6.2'" key="{40c3251c-3426-4aca-ac6d-fc445741df6f}" symbol="9" label="Zones abandonnées"/>
-      <rule filter="&quot;CODE_US&quot; = 'US6.3'" key="{03248507-0958-4aff-9c5f-2babf5583f2f}" symbol="10" label="Sans usage"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US4.1%'" key="{1ef3e4dc-408a-4e38-92a5-a45b5e77813f}" symbol="5" label="Réseaux de transport"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US4.2%'" key="{34483bc5-b1bd-428c-b09d-d17437e6b9a2}" symbol="6" label="Services logistiques et de stockage"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US4.3%'" key="{7eff21cf-be46-40dc-ba1d-2971f29a4c98}" symbol="7" label="Réseaux d'utilité publique"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US6.1%'" key="{6f63eb6b-e5a4-4b9e-a00d-8df67c1b98b2}" symbol="8" label="Zones en transition"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US6.2%'" key="{40c3251c-3426-4aca-ac6d-fc445741df6f}" symbol="9" label="Zones abandonnées"/>
+      <rule filter="&quot;CODE_US&quot; LIKE 'US6.3%'" key="{03248507-0958-4aff-9c5f-2babf5583f2f}" symbol="10" label="Sans usage"/>
     </rules>
     <symbols>
       <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
