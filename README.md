@@ -22,6 +22,15 @@ Pour charger un style dans QGIS :
     - [CLC Niveau 3] (collections/CORINE_Land_Cover/style/clc_niveau3.qml)
 
   Pour les départements d'outre-mer (DOM) :
-    - [CLC DOM Niveau 1] (collections/CORINE_Land_Cover/style/clc_dom_niveau1.qml)
-    - [CLC DOM Niveau 2] (collections/CORINE_Land_Cover/style/clc_dom_niveau2.qml)
-    - [CLC DOM Niveau 3] (collections/CORINE_Land_Cover/style/clc_dom_niveau3.qml)
+    - [CLC DOM Niveau 4] (collections/CORINE_Land_Cover/style/clc_dom_niveau4.qml)
+ 
+- [OCS GE] (http://professionnels.ign.fr/ocsge)
+
+    - [COUVERTURE niveau1] (collections/OCS_GE/style/ocsge_cs_niveau1.qml)
+    - [COUVERTURE niveau3] (collections/OCS_GE/style/ocsge_cs_niveau2.qml)
+    - [COUVERTURE niveau3] (collections/OCS_GE/style/ocsge_cs_niveau3.qml)
+    - [COUVERTURE niveau4] (collections/OCS_GE/style/ocsge_cs_niveau4.qml)
+    
+    - [USAGE niveau 1] (collections/OCS_GE/style/ocsge_us_niveau1qml)
+    - [USAGE niveau 2] (collections/OCS_GE/style/ocsge_us_niveau2qml)
+    - [USAGE niveau 3] (collections/OCS_GE/style/ocsge_us_niveau3qml)
