@@ -26,13 +26,13 @@ Pour charger un style dans QGIS :
  
 - [OCS GE] (http://professionnels.ign.fr/ocsge)
  
-  Couverture
+  Couverture du sol :
     - [COUVERTURE niveau1] (collections/OCS_GE/style/ocsge_cs_niveau1.qml)
     - [COUVERTURE niveau3] (collections/OCS_GE/style/ocsge_cs_niveau2.qml)
     - [COUVERTURE niveau3] (collections/OCS_GE/style/ocsge_cs_niveau3.qml)
     - [COUVERTURE niveau4] (collections/OCS_GE/style/ocsge_cs_niveau4.qml)
     
-  Usage : 
+  Usage du sol : 
     - [USAGE niveau 1] (collections/OCS_GE/style/ocsge_us_niveau1qml)
     - [USAGE niveau 2] (collections/OCS_GE/style/ocsge_us_niveau2qml)
     - [USAGE niveau 3] (collections/OCS_GE/style/ocsge_us_niveau3qml)
