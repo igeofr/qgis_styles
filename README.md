@@ -17,22 +17,27 @@ Pour charger un style dans QGIS :
 - [Corine Land Cover] (http://www.statistiques.developpement-durable.gouv.fr/donnees-ligne/li/1825.html)
 
   Pour la France métropolitaine :
-    - [CLC Niveau 1] (collections/CORINE_Land_Cover/style/clc_niveau1.qml)
-    - [CLC Niveau 2] (collections/CORINE_Land_Cover/style/clc_niveau2.qml)
-    - [CLC Niveau 3] (collections/CORINE_Land_Cover/style/clc_niveau3.qml)
+    - [CLC Niveau 1](collections/CORINE_Land_Cover/style/clc_niveau1.qml)
+    - [CLC Niveau 2](collections/CORINE_Land_Cover/style/clc_niveau2.qml)
+    - [CLC Niveau 3](collections/CORINE_Land_Cover/style/clc_niveau3.qml)
 
   Pour les départements d'outre-mer (DOM) :
-    - [CLC DOM Niveau 4] (collections/CORINE_Land_Cover/style/clc_dom_niveau4.qml)
+    - [CLC DOM Niveau 4](collections/CORINE_Land_Cover/style/clc_dom_niveau4.qml)
  
 - [OCS GE] (http://professionnels.ign.fr/ocsge)
  
   Couverture du sol :
-    - [COUVERTURE Niveau 1] (collections/OCS_GE/style/ocsge_cs_niveau1.qml)
-    - [COUVERTURE Niveau 2] (collections/OCS_GE/style/ocsge_cs_niveau2.qml)
-    - [COUVERTURE Niveau 3] (collections/OCS_GE/style/ocsge_cs_niveau3.qml)
-    - [COUVERTURE Niveau 4] (collections/OCS_GE/style/ocsge_cs_niveau4.qml)
+    - [COUVERTURE Niveau 1](collections/OCS_GE/style/ocsge_cs_niveau1.qml)
+    - [COUVERTURE Niveau 2](collections/OCS_GE/style/ocsge_cs_niveau2.qml)
+    - [COUVERTURE Niveau 3](collections/OCS_GE/style/ocsge_cs_niveau3.qml)
+    - [COUVERTURE Niveau 4](collections/OCS_GE/style/ocsge_cs_niveau4.qml)
     
   Usage du sol : 
-    - [USAGE Niveau 1] (collections/OCS_GE/style/ocsge_us_niveau1qml)
-    - [USAGE Niveau 2] (collections/OCS_GE/style/ocsge_us_niveau2qml)
-    - [USAGE Niveau 3] (collections/OCS_GE/style/ocsge_us_niveau3qml)
+    - [USAGE Niveau 1](collections/OCS_GE/style/ocsge_us_niveau1qml)
+    - [USAGE Niveau 2](collections/OCS_GE/style/ocsge_us_niveau2qml)
+    - [USAGE Niveau 3](collections/OCS_GE/style/ocsge_us_niveau3qml)
+
+- [RPG] (http://professionnels.ign.fr/rpg)
+ 
+  Couverture du sol :
+    - [Style RPG](collections/RPG/style/RPG.qml)
