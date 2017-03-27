@@ -39,5 +39,4 @@ Pour charger un style dans QGIS :
 
 - [RPG](http://professionnels.ign.fr/rpg)
  
-  Couverture du sol :
     - [Style RPG](collections/RPG/style/RPG.qml)
