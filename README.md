@@ -1,4 +1,4 @@
-#Fichiers de style pour QGIS
+# Fichiers de style pour QGIS
 
 Pour télécharger un style depuis QGIS :
 
