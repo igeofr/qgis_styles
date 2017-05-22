@@ -31,35 +31,35 @@
   </edittypes>
   <renderer-v2 attr="CODE_CULTU" forceraster="0" symbollevels="0" type="categorizedSymbol" enableorderby="0">
     <categories>
-      <category render="true" symbol="0" value="0" label="PAS D'INFORMATION"/>
-      <category render="true" symbol="1" value="1" label="BLE TENDRE"/>
-      <category render="true" symbol="2" value="10" label="SEMENCES"/>
-      <category render="true" symbol="3" value="11" label="GEL (SURFACES GELEES SANS PRODUCTION)"/>
-      <category render="true" symbol="4" value="12" label="GEL INDUSTRIEL"/>
-      <category render="true" symbol="5" value="13" label="AUTRES GELS"/>
-      <category render="true" symbol="6" value="14" label="RIZ"/>
-      <category render="true" symbol="7" value="15" label="LEGUMINEUSES A GRAINS"/>
-      <category render="true" symbol="8" value="16" label="FOURRAGE"/>
-      <category render="true" symbol="9" value="17" label="ESTIVES LANDES"/>
-      <category render="true" symbol="10" value="18" label="PRAIRIES PERMANENTES"/>
-      <category render="true" symbol="11" value="19" label="PRAIRIES TEMPORAIRES"/>
-      <category render="true" symbol="12" value="2" label="MAIS GRAIN ET ENSILAGE"/>
-      <category render="true" symbol="13" value="20" label="VERGERS"/>
-      <category render="true" symbol="14" value="21" label="VIGNES"/>
-      <category render="true" symbol="15" value="22" label="FRUITS A COQUE"/>
-      <category render="true" symbol="16" value="23" label="OLIVIERS"/>
-      <category render="true" symbol="17" value="24" label="AUTRES CULTURES INDUSTRIELLES"/>
-      <category render="true" symbol="18" value="25" label="LEGUMES-FLEURS"/>
-      <category render="true" symbol="19" value="26" label="CANNE A SUCRE"/>
-      <category render="true" symbol="20" value="27" label="ARBORICULTURE"/>
-      <category render="true" symbol="21" value="28" label="DIVERS"/>
-      <category render="true" symbol="22" value="3" label="ORGE"/>
-      <category render="true" symbol="23" value="4" label="AUTRES CEREALES"/>
-      <category render="true" symbol="24" value="5" label="COLZA"/>
-      <category render="true" symbol="25" value="6" label="TOURNESOL"/>
-      <category render="true" symbol="26" value="7" label="AUTRES OLEAGINEUX"/>
-      <category render="true" symbol="27" value="8" label="PROTEAGINEUX"/>
-      <category render="true" symbol="28" value="9" label="PLANTES A FIBRES"/>
+      <category render="true" symbol="0" value="NR" label="PAS D'INFORMATION"/>
+      <category render="true" symbol="1" value="01" label="BLE TENDRE"/>
+      <category render="true" symbol="2" value="02" label="MAIS GRAIN ET ENSILAGE"/>
+      <category render="true" symbol="3" value="03" label="ORGE"/>
+      <category render="true" symbol="4" value="04" label="AUTRES CEREALES"/>
+      <category render="true" symbol="5" value="05" label="COLZA"/>
+      <category render="true" symbol="6" value="06" label="TOURNESOL"/>
+      <category render="true" symbol="7" value="07" label="AUTRES OLEAGINEUX"/>
+      <category render="true" symbol="8" value="08" label="PROTEAGINEUX"/>
+      <category render="true" symbol="9" value="09" label="PLANTES A FIBRES"/>
+      <category render="true" symbol="10" value="10" label="SEMENCES"/>
+      <category render="true" symbol="11" value="11" label="GEL (SURFACES GELEES SANS PRODUCTION)"/>
+      <category render="true" symbol="12" value="12" label="GEL INDUSTRIEL"/>
+      <category render="true" symbol="13" value="13" label="AUTRES GELS"/>
+      <category render="true" symbol="14" value="14" label="RIZ"/>
+      <category render="true" symbol="15" value="15" label="LEGUMINEUSES A GRAINS"/>
+      <category render="true" symbol="16" value="16" label="FOURRAGE"/>
+      <category render="true" symbol="17" value="17" label="ESTIVES LANDES"/>
+      <category render="true" symbol="18" value="18" label="PRAIRIES PERMANENTES"/>
+      <category render="true" symbol="19" value="19" label="PRAIRIES TEMPORAIRES"/>
+      <category render="true" symbol="20" value="20" label="VERGERS"/>
+      <category render="true" symbol="21" value="21" label="VIGNES"/>
+      <category render="true" symbol="22" value="22" label="FRUITS A COQUE"/>
+      <category render="true" symbol="23" value="23" label="OLIVIERS"/>
+      <category render="true" symbol="24" value="24" label="AUTRES CULTURES INDUSTRIELLES"/>
+      <category render="true" symbol="25" value="25" label="LEGUMES-FLEURS"/>
+      <category render="true" symbol="26" value="26" label="CANNE A SUCRE"/>
+      <category render="true" symbol="27" value="27" label="ARBORICULTURE"/>
+      <category render="true" symbol="28" value="28" label="DIVERS"/>
     </categories>
     <symbols>
       <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
